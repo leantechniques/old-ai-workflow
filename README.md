@@ -1,4 +1,4 @@
-# AI Workflow System
+# ARCHIVED AI Workflow System
 
 **Structured workflow for AI-assisted development. Prevents chaos, maintains discipline.**
 
